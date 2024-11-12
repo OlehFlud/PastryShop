@@ -5,7 +5,6 @@ import {
   OurProductSection,
   OurTeamSection,
   PromotionSection,
-  ContactUsSection,
 } from '@/components/sections';
 
 export default function Home() {
@@ -18,7 +17,6 @@ export default function Home() {
         <OurProductSection />
         <PromotionSection />
         <OurTeamSection />
-        {/*<ContactUsSection />*/}
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center"></footer>
     </div>

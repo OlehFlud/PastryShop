@@ -5,7 +5,13 @@ export const OurInteriorSection = () => {
   return (
     <div className={'w-full'}>
       <div className={'flex flex-col gap-4 sm:mt-52 mb-24'}>
-        <h1 className={'font-tan-pearl text-main text-[35px] sm:text-[40px] md:text-[50px] lg:text-[60px] xl:text-[85px] mt-10'}>Our Interior</h1>
+        <h1
+          className={
+            'font-tan-pearl text-main text-[35px] sm:text-[40px] md:text-[50px] lg:text-[60px] xl:text-[85px] mt-10'
+          }
+        >
+          Our Interior
+        </h1>
         <div className="grid grid-cols-1 sm:grid-rows-2 gap-4">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Image src="/images/interior_1.png" className={'h-[200px] w-full'} alt="logo" width={800} height={400} />

@@ -18,7 +18,8 @@ export const PromotionSection = () => {
                 <h4 className={'font-bold'}>Акції та спеціальні пропозиції</h4>
                 <ul className={'text-normal text-main text-[16px] '}>
                   <li>
-                    - "Чай о п'ятій" зі знижкою: Щодня з 17:00 до 19:00 пропонувати знижки на чайний набір (чайздесертом)
+                    - "Чай о п'ятій" зі знижкою: Щодня з 17:00 до 19:00 пропонувати знижки на чайний набір
+                    (чайздесертом)
                   </li>
                   <li>
                     - "Британська середа": Щосереди організовуват дні,присвячені класичним британським десертам із
@@ -48,8 +49,8 @@ export const PromotionSection = () => {
               <h4 className={'font-bold'}>Соціальні мережі</h4>
               <ul className={'text-main text-[16px]'}>
                 <li>
-                  - Instagram та Pinterest: Створення акаунтів, де будуть публікуватися естетичні фото десертів, чаювань,
-                  інтер'єру культурних заходів, які проводяться в закладі.
+                  - Instagram та Pinterest: Створення акаунтів, де будуть публікуватися естетичні фото десертів,
+                  чаювань, інтер'єру культурних заходів, які проводяться в закладі.
                 </li>
                 <li>
                   - TikTok та Reels: Короткі відео, що показують процес приготування десертів, історію англійських
@@ -63,7 +64,7 @@ export const PromotionSection = () => {
             </div>
           </div>
           <div className={'flex flex-col mt-10 sm:mt-40'}>
-            <Image src="/images/team-cut.png" className={'h-[200px] w-full'} alt="logo" width={999} height={200}/>
+            <Image src="/images/team-cut.png" className={'h-[200px] w-full'} alt="logo" width={999} height={200} />
           </div>
           <div className={'grid grid-cols-1 sm:grid-cols-2 gap-3 mt-20'}>
             <div className={'flex flex-col gap-3 sm:border-r-[2px] border-main sm:ml-4'}>
@@ -86,8 +87,8 @@ export const PromotionSection = () => {
               <h4 className={'font-bold'}>Соціальні мережі</h4>
               <ul className={'text-bold text-main text-[16px]'}>
                 <li>
-                  - Instagram та Pinterest: Створення акаунтів, де будуть публікуватися естетичні фото десертів, чаювань,
-                  інтер'єру культурних заходів, які проводяться в закладі.
+                  - Instagram та Pinterest: Створення акаунтів, де будуть публікуватися естетичні фото десертів,
+                  чаювань, інтер'єру культурних заходів, які проводяться в закладі.
                 </li>
                 <li>
                   - TikTok та Reels: Короткі відео, що показують процес приготування десертів, історію англійських
