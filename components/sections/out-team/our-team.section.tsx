@@ -16,7 +16,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_1.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
@@ -29,7 +29,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_2.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
@@ -42,7 +42,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_3.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
@@ -54,7 +54,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_4.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
@@ -66,7 +66,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_5.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
@@ -78,7 +78,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_6.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
@@ -90,7 +90,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_7.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
@@ -102,7 +102,7 @@ export const OurTeamSection = () => {
           <div className={'flex flex-col items-center'}>
             <Image
               src="/images/team_8.png"
-              className={'h-[200px] w-[200px] rounded-full'}
+              className={'h-[200px] w-[200px] rounded-full object-cover'}
               alt="logo"
               width={200}
               height={200}
