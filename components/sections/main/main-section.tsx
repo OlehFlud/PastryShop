@@ -13,9 +13,6 @@ export const MainSection = () => {
           >
             Bliss
           </h1>
-          <p className={'uppercase font-bold text-primary md:text-[36px] sm:text-[24px] text-[16px] mt-4 sm:mt-0'}>
-            MH22C <br /> Федишин Надія
-          </p>
         </div>
         <Image src="/images/logo.jpg" alt="logo" width={500} height={600} priority />
       </div>
