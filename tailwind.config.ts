@@ -16,6 +16,7 @@ export default {
       },
       fontFamily: {
         'tan-pearl': ['Font Tan Pearl', 'sans-serif'], // Add your custom font here
+        'tt-chocolates': ['TT Chocolates  Bold', 'sans-serif'], // Add your custom font here
       },
     },
   },

@@ -3,12 +3,11 @@ import Image from 'next/image';
 
 export const OurTeamSection = () => {
   return (
-    //ml-[-3.5rem] lg:ml-[-9rem] xl:ml-[-13rem]
-    <div className={'w-full mr-0 bg-[#5B4D46] sm:mt-32 mb-24'}>
+    <div className={'w-full mr-0 sm:mt-32 mb-24'}>
       <div className={'flex flex-col m-8'}>
         <h1
           className={
-            'font-tan-pearl font-normal text-white text-[20px] sm:text-[30px] md:text-[40px] lg:text-[50px] text-center sm:text-left'
+            'font-tan-pearl font-normal text-main text-[20px] sm:text-[30px] md:text-[40px] lg:text-[50px] text-center sm:text-left'
           }
         >
           Our Team
@@ -22,7 +21,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Шеф кондитер
             </p>
           </div>
@@ -35,7 +34,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Бариста
             </p>
           </div>
@@ -48,7 +47,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Офіціанти
             </p>
           </div>
@@ -60,7 +59,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Хостес
             </p>
           </div>
@@ -72,7 +71,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Кондитерський асистент
             </p>
           </div>
@@ -84,7 +83,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Клінінговий персонал
             </p>
           </div>
@@ -96,7 +95,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Маркетолог
             </p>
           </div>
@@ -108,7 +107,7 @@ export const OurTeamSection = () => {
               width={200}
               height={200}
             />
-            <p className={'text-bold text-white ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
+            <p className={'text-bold text-main ld:text-[24px] md:text-[24px] sm:text-[20px] text-[16px] mt-10'}>
               Менеджер закладу
             </p>
           </div>
